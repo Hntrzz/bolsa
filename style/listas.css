@@ -1,0 +1,15 @@
+.bloque-oferta {
+    background-color: lightblue;
+}
+
+
+.suspensivos {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.salto {
+    white-space: normal;
+    overflow-wrap: break-word;
+}
